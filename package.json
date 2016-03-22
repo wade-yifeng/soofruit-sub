@@ -1,0 +1,25 @@
+{
+  "name": "soofruit-sub",
+  "version": "1.0.0",
+  "description": "soofruit-sub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wade-yifeng/soofruit-sub.git"
+  },
+  "author": "wade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wade-yifeng/soofruit-sub/issues"
+  },
+  "homepage": "https://github.com/wade-yifeng/soofruit-sub#readme",
+  "dependencies": {
+    "config": "^1.19.0",
+    "express": "^4.13.4",
+    "underscore": "^1.8.3",
+    "wechat": "^2.0.3"
+  }
+}
